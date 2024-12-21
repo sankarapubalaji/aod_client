@@ -1,6 +1,5 @@
 import styles from "./styles.module.css";
-import Button from 'react-bootstrap/Button';
-import { Link, Outlet, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import React from "react";
 
